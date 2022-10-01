@@ -1,1 +1,5 @@
 = Antora with GitHub Pages Example
+
+Published:: https://takmatsukawa.github.io/antora-with-github-pages-example
+References::
+* https://docs.antora.org/antora/latest/publish-to-github-pages/#using-github-actions
